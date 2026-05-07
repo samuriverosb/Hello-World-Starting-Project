@@ -4,7 +4,7 @@ Simple project that logs a "Hello World!" in the console using Python
 
 Project used to test the print function in Python
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/H5_73dMC0Ko)
 
 # Development Environment
 
